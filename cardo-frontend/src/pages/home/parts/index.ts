@@ -1,0 +1,5 @@
+export { FAQ } from './FAQ'
+export { Features } from './Features'
+export { Free } from './Free'
+export { Hero } from './Hero'
+export { Now } from './Now'
